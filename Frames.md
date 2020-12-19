@@ -1,7 +1,7 @@
 ---
 title: Frames
 layout: default
-permalink: /frames
+nav_order: 2
 ---
-## Frames
+# Frames
 Here you can look for frames and stuff
