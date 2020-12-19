@@ -1,6 +1,11 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+title: Home
+nav_order: 1
+description: "Lose grams or gain watts. Now ask yourself which one is easier."
+permalink: /
 ---
 # Welcome to the **Saving Grams** database
  Since I felt that a lot of other places were just too disorganized or didn't have a very updated collection of bike frames and components, I knew that this was the best way to go about fixing the whole issue of always wondering how you can make your bike lighter.
