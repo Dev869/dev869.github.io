@@ -1,0 +1,306 @@
+I":<h1 id="frames">Frames</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Make</th>
+      <th>Model</th>
+      <th>Brake Type</th>
+      <th>Year Made</th>
+      <th>Claimed Weight (Frame Only)</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3T</td>
+      <td>Strada Team</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>970g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Alan Bike</td>
+      <td>Xtreme Race</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>1100g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Alan Bike</td>
+      <td>Super Corsa DBS</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>1100g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Alan Bike</td>
+      <td>Super Corsa</td>
+      <td>Rim</td>
+      <td>2020</td>
+      <td>900g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Alan Bike</td>
+      <td>Mito</td>
+      <td>Rim</td>
+      <td>2020</td>
+      <td>1100g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Alan Bike</td>
+      <td>Super Corsa Scandium DBS</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>1500g</td>
+      <td>Al</td>
+    </tr>
+    <tr>
+      <td>Alan Bike</td>
+      <td>Super Corsa Regal</td>
+      <td>Rim</td>
+      <td>2020</td>
+      <td>1500g</td>
+      <td>Al</td>
+    </tr>
+    <tr>
+      <td>Alan Bike</td>
+      <td>Mito Al</td>
+      <td>Rim</td>
+      <td>Unknown</td>
+      <td>1600g</td>
+      <td>Al</td>
+    </tr>
+    <tr>
+      <td>Alchemy Bikes</td>
+      <td>Atlas</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>~900g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Allied Cycle Works</td>
+      <td>Alfa Disc</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>875g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Argon 18</td>
+      <td>Gallium Pro Disc</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>814g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Argon 18</td>
+      <td>Gallium Disc</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>~814g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Argon 18</td>
+      <td>Gallium CS Disc</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>est. 800-950g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Argon 18</td>
+      <td>Nitrogen Disc</td>
+      <td>Disc</td>
+      <td>2019</td>
+      <td>948g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Argon 18</td>
+      <td>Krypton Pro Disc</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>870g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Argon 18</td>
+      <td>Krypton GF Disc</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>1010g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Argon 18</td>
+      <td>Krypton CS Disc</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>est. ~1200g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Basso</td>
+      <td>Diamante SV</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>820g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Basso</td>
+      <td>Diamante</td>
+      <td>Rim</td>
+      <td>2020</td>
+      <td>790g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Basso</td>
+      <td>Diamante Disc</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>est. 790 - 820g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Basso</td>
+      <td>Astra</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>est. 900g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Basso</td>
+      <td>Venta Disc</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>est. 900 - 1000g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Basso</td>
+      <td>Venta</td>
+      <td>Rim</td>
+      <td>2020</td>
+      <td>est. 900 - 1000g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>BH Bikes</td>
+      <td>Ultralight Evo</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>750g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>BH Bikes</td>
+      <td>G8</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>850g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>BH Bikes</td>
+      <td>RS1</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>est. 800 - 950g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Bianchi</td>
+      <td>Specialissima</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>750g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Bianchi</td>
+      <td>XR3</td>
+      <td>Rim/Disc</td>
+      <td>2019</td>
+      <td>1100g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Bianchi</td>
+      <td>XR4</td>
+      <td>Rim/Disc</td>
+      <td>2019</td>
+      <td>est. 900 - 1000g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Bianchi</td>
+      <td>Sprint</td>
+      <td>Rim/Disc</td>
+      <td>2019</td>
+      <td>1080 - 1100g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Bianchi</td>
+      <td>Aria</td>
+      <td>Disc</td>
+      <td>2019</td>
+      <td>1100g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Blue</td>
+      <td>Chinook</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>Unknown Lol</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Blue</td>
+      <td>Axino</td>
+      <td>Rim</td>
+      <td>2020</td>
+      <td>1060g</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>BMC</td>
+      <td>Teammachine SLR01</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>820g (+200g per lower level)</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>BMC</td>
+      <td>Teammachine ALR</td>
+      <td>Disc / Rim</td>
+      <td>2020</td>
+      <td>It’s aluminum</td>
+      <td>Al</td>
+    </tr>
+    <tr>
+      <td>BMC</td>
+      <td>Roadmachine 01</td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>900g (+200g per lower level)</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET
