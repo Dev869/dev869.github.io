@@ -1,0 +1,27 @@
+I"õ<h1 id="frames">Frames</h1>
+<h2 id="disc-brake">Disc Brake</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Make</th>
+      <th>Model</th>
+      <th>Brake Type</th>
+      <th>Year</th>
+      <th>Frame Weight</th>
+      <th>Fork Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3T</td>
+      <td><a href="https://www.3t.bike/info/3t_strada_frameset_specs.pdf">Strada Team</a></td>
+      <td>Disc</td>
+      <td>2020</td>
+      <td>970g</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET
